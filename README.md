@@ -103,4 +103,9 @@
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daredevil1214&theme=highcontrast" alt="daredevil1214" /></p>
 </div>
 
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
 <br/>
