@@ -98,9 +98,10 @@
 </p>
 
 <div align="center">
-   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=DareDevil1214&show_icons=true&theme=highcontrast" />
-   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DareDevil1214&theme=highcontrast" />  
+   <img width="52%" src="https://github-readme-stats.vercel.app/api?username=DareDevil1214&show_icons=true&theme=highcontrast" />
    <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=DareDevil1214&theme=highcontrast" />
+   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DareDevil1214&theme=highcontrast" />  
+
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daredevil1214&theme=highcontrast" alt="daredevil1214" /></p>
 </div>
 
