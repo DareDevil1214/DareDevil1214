@@ -2,7 +2,8 @@
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
-![](https://komarev.com/ghpvc/?username=DareDevil1214e&color=blue)
+![](https://komarev.com/ghpvc/?username=DareDevil1214&color=blue)
+[![wakatime](https://wakatime.com/badge/user/db696357-a503-49fd-9de6-930cfdb33cf8.svg)](https://wakatime.com/@db696357-a503-49fd-9de6-930cfdb33cf8)
 
 ## 💡 Connect with me :
 <p align="left"> 
@@ -102,10 +103,5 @@
    <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=DareDevil1214&theme=highcontrast" />
    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daredevil1214&theme=highcontrast" alt="daredevil1214" /></p>
 </div>
-
-<!--START_SECTION:waka-->
-
-
-<!--END_SECTION:waka-->
 
 <br/>
